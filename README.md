@@ -1,5 +1,6 @@
 # end-to-end-ML-Loan-Prediction
 ---
+```
 loan_approval_project/
 │
 ├── app/
@@ -23,3 +24,4 @@ loan_approval_project/
 │
 ├── requirements.txt
 └── README.md
+```
